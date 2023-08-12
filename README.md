@@ -37,8 +37,8 @@ none:
 3 0 0
 
 priority queue:
-alice =    0    2 3
-bob =     1    1 4
+alice =   0   2 3
+bob =     1   1 4
 both = 1    2 7 8
 
 = 1 + 0 + 1 + 2 + 2 + 1
